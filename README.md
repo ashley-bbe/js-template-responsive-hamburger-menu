@@ -2,7 +2,7 @@
 
 ## 説明・概要
 
-JavaScriptで実装したPC⇔SP版切り替えができるハンバーガーメニュー
+JavaScriptで実装したPC⇔SP版切り替えができるハンバーガーメニューです。
 
 [サイトはこちら](https://ashley-bbe.github.io/js-template-responsive-hamburger-menu/)
   
